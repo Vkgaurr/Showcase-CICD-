@@ -1,2 +1,2 @@
 
-insert into student values('VIJAY','AMBALA');
+insert into student values(2,'VIJAY','AMBALA');
